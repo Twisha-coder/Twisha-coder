@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Twish Talukder</h1>
+<h1 align="center">Hi 👋, I'm Twisha Talukder</h1>
 <h3 align="center">IEM '25 | Coding Enthusiast | Swift Grasper Eager to Innovate | Software Developer in the Making | Exploring Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twisha-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Twisha" /> </p>
