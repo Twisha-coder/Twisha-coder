@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Twisha Talukder</h1>
 
-![Banner Image](./coding-freak.gif)
+<p align="center">
+  <img src="./coding-freak.gif" alt="Banner Image">
+</p>
 <h3 align="center">IEM '25 | Coding Enthusiast | Swift Grasper Eager to Innovate | Software Developer in the Making | Exploring Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twisha-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Twisha" /> </p>
