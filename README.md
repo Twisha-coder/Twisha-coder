@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Twisha Talukder</h1>
-[Banner Image](./coding-freak.gif)
+[Banner Image](coding-freak.gif)
 
 <h3 align="center">IEM '25 | Coding Enthusiast | Swift Grasper Eager to Innovate | Software Developer in the Making | Exploring Machine Learning</h3>
 
