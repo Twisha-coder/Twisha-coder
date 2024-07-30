@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=twisha-coder" alt="Twisha" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack and Cloud Computing**
+- 🔭 I’m currently working on **Image steganography**
 
-- 🌱 I’m currently learning **Image steganography**
+- 🌱 I’m currently learning **Vue Js, React Js ,MongoDB etc**
 
-- 💬 Ask me about **React, vue, MongoDB Etc.**
+- 💬 Ask me about **HTML,CSS,MYSQL,Javascript,PHP**
 
 - 📫 How to reach me **twishatalukder@gmail.com**
 
